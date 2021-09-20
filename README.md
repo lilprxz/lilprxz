@@ -1,7 +1,7 @@
 - ♡ hewo, the internet knows me a keita 
 - ♡ im interested in cyber security, programming and development
 - ♡ im currently learning more about ctf's and python
-- ♡ im looking to collaborate on any interesting project or writeups for ctf 
+- ♡ im looking to collaborate on any interesting project or challenges for ctf 
 - ♡ how to reach me? you can dm me here at keita#0853
 
 <!---
