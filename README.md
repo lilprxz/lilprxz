@@ -1,9 +1,5 @@
-- ♡ hewo, the internet knows me a keita 
-- ♡ im interested in cyber security, programming and development
-- ♡ im currently learning more about ctf's and python
-- ♡ i deleted my previous github account, stay on a lookout 
-- ♡ how to reach me? you can dm me here at keita#0853
+![61f1bf6bb91dd1dc445cdf6815b916fc](https://user-images.githubusercontent.com/91045700/134336562-4c6490ac-bd02-4018-b35a-80dc75c54041.png)
 <!---
 lilprxz/lilprxz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+ take a look at your changes.
 --->
